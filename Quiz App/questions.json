@@ -1,0 +1,42 @@
+[
+    {
+        "title" : "Why We Use <br> Tag ?",
+        "answer_1" : "To Make Text Bold",
+        "answer_2" : "To Make Text Italic",
+        "answer_3" : "To Add BreakLine",
+        "answer_4" : "To Create Horizontal Line",
+        "right_answer" : "To Add BreakLine"
+    },
+    {
+        "title" : "Is <img> Tag Has Attribute href ?",
+        "answer_1" : "Yes",
+        "answer_2" : "No Its For Anchor Tag Link",
+        "answer_3" : "All Tags Has This Attribute",
+        "answer_4" : "Answer 1 And 3 Is Correct",
+        "right_answer" : "No Its For Anchor Tag Link"
+    },
+    {
+        "title" : "How Can We Make Tag Text Bold ?",
+        "answer_1" : "Putting It Inside <b> Tag",
+        "answer_2" : "Putting It Inside <strong> Tag",
+        "answer_3" : "Customizing It With Font-Weight Property In Css",
+        "answer_4" : "All Answers Is Correct",
+        "right_answer" : "All Answers Is Correct"
+    },
+    {
+        "title" : "What Is The Right Hierarchy For Create Part Of Page ?",
+        "answer_1" : "&lt;h2&gt; Then &lt;p&gt; The &lt;h1&gt; Then &lt;p&gt; Then &lt;h3&gt; Then &lt;p&gt;",
+        "answer_2" : "&lt;h1&gt; Then &lt;p&gt; The &lt;h3&gt; Then &lt;p&gt; Then &lt;h2&gt; Then &lt;p&gt;",
+        "answer_3" : "&lt;h2&gt; Then &lt;p&gt; The &lt;h3&gt; Then &lt;p&gt; Then &lt;h1&gt; Then &lt;p&gt;",
+        "answer_4" : "All Answers Is Wrong",
+        "right_answer" : "All Answers Is Wrong"
+    },
+    {
+        "title" : "How Can We Include External Page Inside Our HTML Page ?",
+        "answer_1" : "By Using Include In HTML",
+        "answer_2" : "By Using Load In HTML",
+        "answer_3" : "By Using Iframe Tag",
+        "answer_4" : "All Answers Is Wrong",
+        "right_answer" : "By Using Iframe Tag"
+    }
+]
